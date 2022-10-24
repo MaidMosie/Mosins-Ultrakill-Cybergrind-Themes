@@ -1,0 +1,5 @@
+name: 'Upload artifacts'
+description: 'Upload directories in the working directory as artifacts.'
+runs:
+  using: 'node12'
+  main: 'index.js'
